@@ -1,7 +1,5 @@
 ### Hi there 👋
-<a href="https://github.com/anuraghazra/github-readme-stats%22%3E
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cemc-git&show_icons=true" />
-</a>
 <!--
 **cemc-git/cemc-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
