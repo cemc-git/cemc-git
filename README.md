@@ -1,5 +1,5 @@
 ### Hi there 👋
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cemc-git&show_icons=true" />
+ ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=cemc-git&show_icons=true&theme=dracula)
 <!--
 **cemc-git/cemc-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
